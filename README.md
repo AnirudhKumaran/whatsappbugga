@@ -1,0 +1,1 @@
+This repository is about an UI Program built using python and selenium which automatically sends message to multiple contacts as there is a restriction in whatsapp a message can forwarded only to five members at a time.
